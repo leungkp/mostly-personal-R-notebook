@@ -3,18 +3,16 @@ project:
   output-dir: docs
 
 website:
-  title: "mostly-personal-R-notebook"
+  title: "brian leung"
   navbar:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/leungkp
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: 
+      primary: mystyles.scss
 
 editor: visual
 
