@@ -13,7 +13,7 @@ format:
   html:
     theme: 
       primary: sandstone
-    styles: mystyles.scss
+    scss: mystyles.scss
 
 editor: visual
 
