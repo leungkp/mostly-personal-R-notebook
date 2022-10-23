@@ -12,7 +12,7 @@ website:
 format:
   html:
     theme: 
-      primary: mystyles.scss
+      primary: [sandstone, mystyles.scss]
 
 editor: visual
 
