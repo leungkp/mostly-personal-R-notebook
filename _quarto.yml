@@ -12,7 +12,8 @@ website:
 format:
   html:
     theme: 
-      primary: [sandstone, mystyles.scss]
+      primary: sandstone
+    styles: mystyles.scss
 
 editor: visual
 
