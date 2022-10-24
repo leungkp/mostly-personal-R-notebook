@@ -6,13 +6,11 @@ website:
   title: "brian leung"
   navbar:
     right:
+      - index.qmd
       - about.qmd
-      - icon: github
-        href: https://github.com/leungkp
 format:
   html:
-    theme: 
-      primary: sandstone
+    theme: mystyles.scss
 
 editor: visual
 

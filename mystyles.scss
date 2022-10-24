@@ -5,3 +5,8 @@
 
 // use Sora font if available
 $font-family-sans-serif:  "Sora", sans-serif !default;
+
+// font size 
+$font-size-base:              0.875rem; 
+$font-size-sm:                $font-size-base * .875;
+$font-size-lg:                $font-size-base * 1.25;
